@@ -1,6 +1,6 @@
 const express=require('express');
 const routes= express.Router();
-const AppController=require('../controllers/AppController')
+const AppController=require('../controllers/Appcontroller')
 const Galeriantroller=require('../controllers/GaleriaController')
 const UsuarioController=require('../controllers/UsuarioController')
 const ContactController=require('../controllers/ContactController')
